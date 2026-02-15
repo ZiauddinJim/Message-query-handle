@@ -15,7 +15,7 @@
 
 ## Folder Structure explain
 
-| Folder      | কেন এই নাম       |
+| Folder      | Why this name? |
 | ----------- | -------------- |
 | config      | setup related  |
 | models      | data structure |
